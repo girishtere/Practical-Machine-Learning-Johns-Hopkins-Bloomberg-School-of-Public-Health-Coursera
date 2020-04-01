@@ -1,4 +1,4 @@
-<h1>Practical Machine Learning Course Project Report<h1>
+<h1>Practical Machine Learning Course Project Report</h1>
 These is a file produced during a Peer-graded Assignment: Prediction Assignment Writeup of Coursera's MOOC Practical Machine Learning from Johns Hopkins Bloomberg School of Public Health.
 For more information about the several MOOCs comprised in this Specialization, please visit: https://www.coursera.org/specialization/jhudatascience/
 The scripts have been solely produced, tested and executed on Windows 10 Pro and RStudio Version 0.99.486.
