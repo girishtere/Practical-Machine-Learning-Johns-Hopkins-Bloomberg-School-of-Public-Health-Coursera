@@ -2,7 +2,7 @@
 This is a file produced during a Peer-graded Assignment: Prediction Assignment Writeup of Coursera's MOOC Practical Machine Learning from Johns Hopkins Bloomberg School of Public Health.<br/>
 
 The scripts is developed, tested and executed on Windows 10 Pro and RStudio Version 1.1.463. <br/>
-Developer: **Girish Tere**
+Developer: **Girish Tere**<br/>
 [GitHub Repo:](https://github.com/girishtere/Practical-Machine-Learning-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera)
 <br/>
 [Rpub:](http://rpubs.com/UtkarshPathrabe/PracticalMachineLearningProjectReport)
