@@ -1,9 +1,10 @@
-Practical Machine Learning Course Project Report
-These is a file produced during a homework assignment of Coursera's MOOC Practical Machine Learning from Johns Hopkins Bloomberg School of Public Health.
+<h1>Practical Machine Learning Course Project Report<h1>
+These is a file produced during a Peer-graded Assignment: Prediction Assignment Writeup of Coursera's MOOC Practical Machine Learning from Johns Hopkins Bloomberg School of Public Health.
 For more information about the several MOOCs comprised in this Specialization, please visit: https://www.coursera.org/specialization/jhudatascience/
 The scripts have been solely produced, tested and executed on Windows 10 Pro and RStudio Version 0.99.486.
 Developer: Girish Tere
-GitHub Repo: https://https://github.com/girishtere/Practical-Machine-Learning-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/Project
+GitHub Repo: https://github.com/girishtere/Practical-Machine-Learning-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera
+
 Rpub: http://rpubs.com/UtkarshPathrabe/PracticalMachineLearningProjectReport
 
 Background
